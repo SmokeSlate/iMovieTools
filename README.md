@@ -1,10 +1,9 @@
 # iMovie Tools
-- - -
-# Features
+## Features
 - Export Projects as .zip
 - Import Projects
 - Export Media from a selected Project
-# Install
+## Install
 - [Download](https://github.com/SmokeSlate/iMovieTools/releases/latest)
 - Drag to applacations
 - Open It!
