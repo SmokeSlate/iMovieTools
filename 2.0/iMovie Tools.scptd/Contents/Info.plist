@@ -6,22 +6,14 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
-	<key>CFBundleExecutable</key>
-	<string>applet</string>
-	<key>CFBundleIconFile</key>
-	<string>applet</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.SmokeSlate.iMovie.Tools</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>iMovie Tools</string>
-	<key>CFBundlePackageType</key>
-	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.8</string>
-	<key>CFBundleSignature</key>
-	<string>aplt</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -72,7 +64,7 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>387</real>
+		<real>331</real>
 		<key>savedFrame</key>
 		<string>551 211 1027 678 0 0 1680 1025 </string>
 		<key>selectedTab</key>
